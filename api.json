@@ -1,0 +1,112 @@
+[
+    {
+        "id":1,
+        "question":"A qué hecho histórico corresponde el llamado Día D",
+        "options": {
+            "option1": "Desembarco en Normadía",
+            "option2": "Liberación de París",
+            "option3": "Rendición de los Nazis",
+            "option4": "Bombardeo sobre Londres"
+        },
+        "correctOption": "Desembarco en Normadía"
+    },
+    {
+        "id":2,
+        "question":"¿En qué río fue abandonado Moisés según el Antiguo Testamento?",
+        "options": {
+            "option1": "Tigris",
+            "option2": "Eufrates",
+            "option3": "Nilo",
+            "option4": "Indo"
+        },
+        "correctOption": "Nilo"
+    },
+    {
+        "id":3,
+        "question":"El 3 de diciembre de 1992 se crearon los primeros mensajes instantánenos para dispositivos móviles, ¿Cómo se llamaban?",
+        "options": {
+            "option1": "ICQ",
+            "option2": "SMS",
+            "option3": "WhatsApp",
+            "option4": "Messenger"
+        },
+        "correctOption": "SMS"
+    },
+    {
+        "id":4,
+        "question":"¿Cómo se llamo el escandalo que obligó al presidente estadounidense Richar Nixon a dimitir?",
+        "options": {
+            "option1": "Vietnam",
+            "option2": "Powergate",
+            "option3": "NixonProcess",
+            "option4": "Watergate"
+        },
+        "correctOption": "Watergate"
+    },
+    {
+        "id":5,
+        "question":"¿En qué año se disolvió la Unión Soviética?",
+        "options": {
+            "option1": "En 1981",
+            "option2": "En 1987",
+            "option3": "En 1989",
+            "option4": "En 1991"
+        },
+        "correctOption": "En 1991"
+    },
+    {
+        "id":6,
+        "question":"¿En qué año se firmo la constitución Argentina?",
+        "options": {
+            "option1": "En 1846",
+            "option2": "En 1853",
+            "option3": "En 1880",
+            "option4": "En 1839"
+        },
+        "correctOption": "En 1853"
+    },
+    {
+        "id":7,
+        "question":"¿Qué año finalizo la Segunda Guerra Mundial?",
+        "options": {
+            "option1": "En 1939",
+            "option2": "En 1928",
+            "option3": "En 1945",
+            "option4": "En 1960"
+        },
+        "correctOption": "En 1945"
+    },
+    {
+        "id":8,
+        "question":"En el ",
+        "options": {
+            "option1": "En 1981",
+            "option2": "En 1987",
+            "option3": "En 1989",
+            "option4": "En 1991"
+        },
+        "correctOption": "En 1991"
+    },
+    {
+        "id":9,
+        "question":"¿En qué país se dió la Revolución Industrial?",
+        "options": {
+            "option1": "Gran Bretaña",
+            "option2": "Francia",
+            "option3": "Alemania",
+            "option4": "España"
+        },
+        "correctOption": "Gran Bretaña"
+    },
+    {
+        "id":10,
+        "question":"¿En qué año salió el Clash Royale?",
+        "options": {
+            "option1": "2015",
+            "option2": "2017",
+            "option3": "2018",
+            "option4": "2016"
+        },
+        "correctOption": "2016"
+    }
+]
