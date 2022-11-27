@@ -6,7 +6,7 @@ const app = express();
 
 app.use(cors());
 
-app.get('/',(req,res)=>{
+app.get('/',cors(),(req,res)=>{
     res.json(api);
 })
 
