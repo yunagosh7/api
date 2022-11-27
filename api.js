@@ -1,6 +1,5 @@
-import express from 'express'
-import { PORT } from './config.js'
-import api from './api.json'
+const express = require("express")
+const api = require('./api.json')
 
 const app = express()
 
@@ -8,5 +7,6 @@ app.get('/',(req,res)=>{
     res.send(api)
 })
 
+console.log(PORT)
 
-app.listen(PORT)
+app.listen(3000)
