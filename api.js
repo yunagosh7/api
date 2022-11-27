@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 
 app.get('/',(req,res)=>{
-    res.send(api);
+    res.json(api);
 })
 
 console.log(PORT)
