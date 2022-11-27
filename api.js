@@ -1,12 +1,11 @@
-const express = require('express');
-const app = express();
-const data = require('./api.json');
+import express from 'express'
+import { PORT } from './config.js'
+
+const app = express()
 
 app.get('/',(req,res)=>{
-    res.send(data)
+    res.send(api)
 })
 
 
-app.listen(5000)
-
-module.exports = app;
+app.listen(PORT)
